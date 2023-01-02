@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[![website](https://emojibook.org/wp-content/uploads/2022/08/1-1-64.png)](https://haimet.github.io/HaimanotTadrossPortfolio.github.io/)
+[![Website](<img height="32" width="32" src="https://emojibook.org/wp-content/uploads/2022/08/1-1-64.png"/>)](https://haimet.github.io/HaimanotTadrossPortfolio.github.io/)
 &nbsp;&nbsp;
-[![linkedin](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/LinkedIn.svg"/>)](https://www.linkedin.com/in/haimanot-tadross-30a35365/)
+[![Linkedin](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/LinkedIn.svg"/>)](https://www.linkedin.com/in/haimanot-tadross-30a35365/)
 &nbsp;&nbsp;
 
 
@@ -39,5 +39,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaimeT&theme=tokyonight)
 
 </details>
-[website]: https://haimet.github.io/HaimanotTadrossPortfolio.github.io/
-[linkedin]: https://www.linkedin.com/in/haimanot-tadross-30a35365/
+![website](https://haimet.github.io/HaimanotTadrossPortfolio.github.io/)
+![linkedin](https://www.linkedin.com/in/haimanot-tadross-30a35365/)
