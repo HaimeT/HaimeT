@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img height="32" width="32" src="https://emojibook.org/wp-content/uploads/2022/08/1-1-64.png"/>)](https://haimet.github.io/HaimanotTadrossPortfolio.github.io/)
+[<img height="32" width="32" src="[https://emojibook.org/wp-content/uploads/2022/08/1-1-64.png](https://th.bing.com/th/id/R.18a6dc3c4f741764436495255b2e10f5?rik=Ha%2f4wt35Ws%2bh1w&riu=http%3a%2f%2fwww.clker.com%2fcliparts%2f9%2fc%2fa%2f9%2f133181080294472335portfolio-hi.png&ehk=HAGN7vPZDN1qimLCMtei4IE%2f5XDEu5zFPz%2f4rMo5UTA%3d&risl=&pid=ImgRaw&r=0)"/>)](https://haimet.github.io/HaimanotTadrossPortfolio.github.io/)
 &nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/haimanot-tadross-30a35365/)
 &nbsp;&nbsp;
