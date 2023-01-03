@@ -12,7 +12,7 @@
 
 [![Website](<img height="32" width="32" src="https://emojibook.org/wp-content/uploads/2022/08/1-1-64.png"/>)](https://haimet.github.io/HaimanotTadrossPortfolio.github.io/)
 &nbsp;&nbsp;
-[![LinkedIn](https://www.svgrepo.com/show/382726/linkedin-linked-in.svg)]([https://linkedin.com/in/codeSTACKr#gh-light-mode-only](https://www.linkedin.com/in/haimanot-tadross-30a35365/))
+[![LinkedIn](<img height="32" width="32" src="https://www.svgrepo.com/show/382726/linkedin-linked-in.svg")]([https://linkedin.com/in/codeSTACKr#gh-light-mode-only](https://www.linkedin.com/in/haimanot-tadross-30a35365/))
 &nbsp;&nbsp;
 
 
