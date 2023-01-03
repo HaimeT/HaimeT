@@ -10,11 +10,12 @@
 
 ### Connect with me:
 
-[![Website](<img height="32" width="32" src="https://emojibook.org/wp-content/uploads/2022/08/1-1-64.png"/>)](https://haimet.github.io/HaimanotTadrossPortfolio.github.io/)
+[<img height="32" width="32" src="https://emojibook.org/wp-content/uploads/2022/08/1-1-64.png"/>)](https://haimet.github.io/HaimanotTadrossPortfolio.github.io/)
 &nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/haimanot-tadross-30a35365/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/haimanot-tadross-30a35365/)
 &nbsp;&nbsp;
-
+[<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>](https://www.upwork.com/freelancers/~011f7a4ed2cf6d9ed3)
+&nbsp;&nbsp;
 
 
 ### Languages and Tools:
