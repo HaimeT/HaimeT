@@ -12,7 +12,7 @@
 
 [![Website](<img height="32" width="32" src="https://emojibook.org/wp-content/uploads/2022/08/1-1-64.png"/>)](https://haimet.github.io/HaimanotTadrossPortfolio.github.io/)
 &nbsp;&nbsp;
-(<img height="32" width="32" src="./linkedin-linked-in-svgrepo-com.svg"/>)(https://www.linkedin.com/in/haimanot-tadross-30a35365/)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/haimanot-tadross-30a35365/)
 &nbsp;&nbsp;
 
 
@@ -27,7 +27,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-<br>
+
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
