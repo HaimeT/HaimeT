@@ -13,7 +13,6 @@
 [![Website](<img height="32" width="32" src="https://emojibook.org/wp-content/uploads/2022/08/1-1-64.png"/>)](https://haimet.github.io/HaimanotTadrossPortfolio.github.io/)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)]([https://linkedin.com/in/codeSTACKr#gh-light-mode-only](https://www.linkedin.com/in/haimanot-tadross-30a35365/))
-[![website](./img/linkedin-dark.svg)]([https://linkedin.com/in/codeSTACKr#gh-dark-mode-only](https://www.linkedin.com/in/haimanot-tadross-30a35365/))
 &nbsp;&nbsp;
 
 
@@ -28,9 +27,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-
-
-<br />
 <br />
 
 ---
