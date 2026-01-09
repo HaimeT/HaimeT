@@ -3,9 +3,9 @@
 ## I'm a Data Analyst, currently working on career change to Full stack Developer!!
 
 - 🔭completed the Junior Full Stack Java Developer program at Generation USA (Dec, 2022)
-- 🔭 self-taught web developer 
+- 🔭 self-taught DData Analyst , web developer...
 - 🌱 I’m currently  working on web development projects
-- 🥅 2023 Goals: Work on more projects and learn new programing languages
+- 🥅 Work on more projects and learn new programing languages
 - ⚡ Fun fact: I love anything outdoor - 🚶🏿,🏂🏿,🚴🏿‍♀️,🏖️
 
 ### Connect with me:
